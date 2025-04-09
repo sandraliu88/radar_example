@@ -1,0 +1,6 @@
+provider "aws" {
+  access_key = "1908dsfaj23891afj929"
+  secret_key = "190-8vfdsa;902-8rj;da11424"
+  token      = "supersecrettoken"
+  region     = "us-west-2"
+}
